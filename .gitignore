@@ -37,4 +37,4 @@ next-env.d.ts
 
 .env.example
 /scripts/seed.js
-/seed/route.ts
+/app/seed/route.ts
